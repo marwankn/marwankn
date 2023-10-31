@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **marwanknofal@gmail.com**
 
-- 📄 [Learn more about me](https://drive.google.com/file/d/139V5YpSNPYz1xi4gt_6RAiNEPIiFuXv4/view?usp=sharing](https://drive.google.com/file/d/139V5YpSNPYz1xi4gt_6RAiNEPIiFuXv4/view?usp=sharing)
+- 📄 [Learn more about me](https://drive.google.com/file/d/139V5YpSNPYz1xi4gt_6RAiNEPIiFuXv4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
