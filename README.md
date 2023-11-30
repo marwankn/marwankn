@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, Python**
 
-- 👨‍💻 All of my projects are available at [https://www.marwannofal@gmail.com](https://www.marwannofal@gmail.com)
+- 👨‍💻 All of my projects are available at [https://www.marwannofal.com](https://www.marwannofal.com)
 
 - 📫 How to reach me **marwanknofal@gmail.com**
 
