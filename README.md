@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Typescript, Python**
 
-- 👨‍💻 All of my projects are available at [https://www.marwannofal.com](https://www.marwannofal.com)
+- 👨‍💻 All of my projects are available at [https://www.marwannofal.com](https://www.marwannofal.com) (COMING SOON)
 
 - 📫 How to reach me **marwanknofal@gmail.com**
 
-- 📄 [Learn more about me](https://drive.google.com/file/d/139V5YpSNPYz1xi4gt_6RAiNEPIiFuXv4/view?usp=sharing)
+- 📄 [Learn more about me](https://drive.google.com/file/d/13P9E3EloNaJjyyUNxiLAou2vXNPPu1kT/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
